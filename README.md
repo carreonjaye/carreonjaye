@@ -8,10 +8,10 @@ I create
 ### My Proudest Works?
 I develop and design quite a lot of software, but there are quite the handful of ones that I have a special place in my heart for.
 
-| ![Graphite](/images/graphite.png)   | Spicelabd |
+| ![Graphiterial](/images/graphite.png)   | Spicelabd |
 |-------------------------------------|---|
 | ![Graphite Lisk](/images/glisk.png) | ![Photo](/images/glisk.png) |
-| ![Graphite LMS](/images/glms.png)   | D |
+| ![Graphite Learn LMS](/images/glms.png)   | D |
 | ![Graphite Mag](/images/gmag.png)   |  |
 
 ### My Best Contributions?
