@@ -6,6 +6,7 @@
 
 ## 🪪 𝙰𝚋𝚘𝚞𝚝 𝚖𝚎
 - 💻 HS Senior Studying IT/CS
+- 🎓 Studying IT/CS at the University of the Philippines, class of 2024
 
 ### My Proudest Works?
 I develop and design quite a lot of software, but there are quite the handful of ones that I have a special place in my heart for.
