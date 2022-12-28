@@ -10,9 +10,9 @@ I develop and design quite a lot of software, but there are quite the handful of
 
 | ![Graphiterial](/images/graphite.png)   | Spicelabd |
 |-------------------------------------|---|
-| ![Graphite Lisk](/images/glisk.png) | ![Photo](/images/glisk.png) |
-| ![Graphite Learn LMS](/images/glms.png)   | D |
-| ![Graphite Mag](/images/gmag.png)   |  |
+| ![Graphiterial shelfbox](/images/glisk.png) | ![Photo](/images/glisk.png) |
+| ![Graphite academébox](/images/glms.png)   | D |
+| ![Graphite academe LMS](/images/gmag.png)   |  |
 
 ### My Best Contributions?
 ![GithubContributions](/images/gitcon.png)
