@@ -32,6 +32,9 @@ I develop and design quite a lot of software, but there are quite the handful of
 ![Portfolio Showcase](/images/portfolio.png)
 
 ## 👨‍🚀 𝚁𝚎𝚊𝚌𝚑 𝚘𝚞𝚝
+
+[<img src="https://raw.githubusercontent.com/carreonjaye/carreonjaye/master/images/icons8-linkedin.svg" height="40em" align="center" alt="Follow Jaye on LinkedIn" title="Follow Jaye on LinkedIn"/>](https://linkedin.com/in/carreonjaye)
+
 - [Instagram](https://instagram.com/carreonjaye)
 - [Twitter](https://twitter.com/carreonjaye)
 - [Mastodon](https://mastodon.social)
