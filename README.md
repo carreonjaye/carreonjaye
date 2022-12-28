@@ -8,11 +8,12 @@ I create
 ### My Proudest Works?
 I develop and design quite a lot of software, but there are quite the handful of ones that I have a special place in my heart for.
 
-| ![Graphiterial](/images/graphite.png)   | Spicelabd |
-|-------------------------------------|---|
-| ![Graphiterial shelfbox](/images/glisk.png) | ![Photo](/images/glisk.png) |
-| ![Graphite academébox](/images/glms.png)   | D |
-| ![Graphite academe LMS](/images/gmag.png)   |  |
+#### Software Products
+| ![Graphiterial](/images/graphite.png)       | Crossinger+                          | WICO Wikia Compañía                        |
+|---------------------------------------------|--------------------------------------|--------------------------------------------|
+| ![Graphiterial shelfbox](/images/glisk.png) | ![Cross+ Planner](/images/glisk.png) | ![Wico BareWiki](/images/glisk.png)        |
+| ![Graphite academébox](/images/glms.png)    | ![Cross+ Pages](/images/glisk.png)   | ![Wico Extensions Site](/images/glisk.png) |
+| ![Graphite academe LMS](/images/gmag.png)   | ![Cross+ Finance](/images/glisk.png) | ![Wico Editor](/images/glisk.png)          |
 
 ### My Best Contributions?
 ![GithubContributions](/images/gitcon.png)
