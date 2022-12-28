@@ -44,5 +44,5 @@ You can easily reach out and talk to me with my email, linked right on my profil
 
 ### Support
 [<img src="https://raw.githubusercontent.com/carreonjaye/carreonjaye/master/images/icons8-patreon.svg" height="40em" align="center" alt="Support Jaye on Patreon" title="Support Jaye on Patreon"/>](www.patreon.com/carreonjaye)
-[<img src="https://raw.githubusercontent.com/carreonjaye/carreonjaye/master/images/icons8-buymeacoffee.svg" height="40em" align="center" alt="Support Jaye with a Cup of Coffee" title="Support Jaye with a Cup of Coffee"/>](www.buymeacoffee.com/carreonjaye)
+[<img src="https://raw.githubusercontent.com/carreonjaye/carreonjaye/master/images/icons8-buymeacoffee.png" height="40em" align="center" alt="Support Jaye with a Cup of Coffee" title="Support Jaye with a Cup of Coffee"/>](www.buymeacoffee.com/carreonjaye)
 
