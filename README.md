@@ -34,14 +34,10 @@ I develop and design quite a lot of software, but there are quite the handful of
 ## 👨‍🚀 𝚁𝚎𝚊𝚌𝚑 𝚘𝚞𝚝
 
 [<img src="https://raw.githubusercontent.com/carreonjaye/carreonjaye/master/images/icons8-linkedin.svg" height="40em" align="center" alt="Follow Jaye on LinkedIn" title="Follow Jaye on LinkedIn"/>](https://linkedin.com/in/carreonjaye)
-
-- [Instagram](https://instagram.com/carreonjaye)
-- [Twitter](https://twitter.com/carreonjaye)
-- [Mastodon](https://mastodon.social)
-
-### ...and my Developer Resources!
-- [Developer Resources](resources.carreonjaye.com)
-- [StackOverflow](stackoverflow.com/users/20401247)
+[<img src="https://raw.githubusercontent.com/carreonjaye/carreonjaye/master/images/icons8-twitter.svg" height="40em" align="center" alt="Follow Jaye on Twitter" title="Follow Jaye on Twitter"/>](https://twitter.com/carreonjaye)
+[<img src="https://raw.githubusercontent.com/carreonjaye/carreonjaye/master/images/icons8-instagram.svg" height="40em" align="center" alt="Follow Jaye on Instagram" title="Follow Jaye on Instagram"/>](https://instagram.com/carreonjaye)
+[<img src="https://raw.githubusercontent.com/carreonjaye/carreonjaye/master/images/icons8-reddit.svg" height="40em" align="center" alt="Follow Jaye on Reddit" title="Follow Jaye on Reddit"/>](https://www.reddit.com/user/carreonjaye)
+[<img src="https://raw.githubusercontent.com/carreonjaye/carreonjaye/master/images/icons8-stack-overflow.svg" height="40em" align="center" alt="Follow Jaye on Stack Overflow" title="Follow Jaye on Stack Overflow"/>](https://stackoverflow.com/users/20401247/carreonjaye)
 
 ### Support me and my work~
 - [![Patreon](/images/patreon.png)](www.patreon.com/carreonjaye)
