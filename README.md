@@ -2,8 +2,10 @@
 
 ![Welcome to my profile!](/images/header.png)
 
-I create
+![](https://vbr.wocr.tk/badge?page_id=carreonjaye.carreonjaye&color=bf40ed)
 
+## 🪪 𝙰𝚋𝚘𝚞𝚝 𝚖𝚎
+- 💻 HS Senior Studying IT/CS
 
 ### My Proudest Works?
 I develop and design quite a lot of software, but there are quite the handful of ones that I have a special place in my heart for.
@@ -15,13 +17,20 @@ I develop and design quite a lot of software, but there are quite the handful of
 | ![Graphite academébox](/images/glms.png)    | ![Cross+ Pages](/images/glisk.png)   | ![Wico Extensions Site](/images/glisk.png) |
 | ![Graphite academe LMS](/images/gmag.png)   | ![Cross+ Finance](/images/glisk.png) | ![Wico Editor](/images/glisk.png)          |
 
+### My Product Lines?
+
+- Graphiterial
+- Crossinger+
+- WICO (Wikia Compania)
+- 
+
 ### My Best Contributions?
 ![GithubContributions](/images/gitcon.png)
 
 ### My Extended Portfolio?
 ![Portfolio Showcase](/images/portfolio.png)
 
-### Check my Socials!
+## 👨‍🚀 𝚁𝚎𝚊𝚌𝚑 𝚘𝚞𝚝
 - [Instagram](https://instagram.com/carreonjaye)
 - [Twitter](https://twitter.com/carreonjaye)
 - [Mastodon](https://mastodon.social)
@@ -33,3 +42,4 @@ I develop and design quite a lot of software, but there are quite the handful of
 ### Support me and my work~
 - [![Patreon](/images/patreon.png)](www.patreon.com/carreonjaye)
 - [![BuyMeACoffee](/images/buymeacoffee.png)](www.buymeacoffee.com/carreonjaye)
+
