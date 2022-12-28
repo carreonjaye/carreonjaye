@@ -29,7 +29,7 @@
 (Windows) (VSCode) (JetBrains)
 
 ## 📈 𝙶𝚒𝚝𝚑𝚞𝚋 𝙳𝚊𝚝𝚊
-![Metrics](https://metrics.lecoq.io/Raymo111?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
+![Metrics](https://metrics.lecoq.io/carreonjaye?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FManila)
 
 ## 👨‍🚀 𝚁𝚎𝚊𝚌𝚑 𝚘𝚞𝚝
 
