@@ -42,5 +42,5 @@
 [<img src="https://raw.githubusercontent.com/carreonjaye/carreonjaye/master/images/icons8-reddit.svg" height="40em" align="center" alt="Follow Jaye on Reddit" title="Follow Jaye on Reddit"/>](https://www.reddit.com/user/carreonjaye)
 [<img src="https://raw.githubusercontent.com/carreonjaye/carreonjaye/master/images/icons8-stack-overflow.svg" height="40em" align="center" alt="Follow Jaye on Stack Overflow" title="Follow Jaye on Stack Overflow"/>](https://stackoverflow.com/users/20401247/carreonjaye)
 #### 𝚂𝚞𝚙𝚙𝚘𝚛𝚝
-[<img src="https://raw.githubusercontent.com/carreonjaye/carreonjaye/master/images/icons8-patreon.svg" height="40em" align="center" alt="Support Jaye on Patreon" title="Support Jaye on Patreon"/>](www.patreon.com/carreonjaye)
-[<img src="https://raw.githubusercontent.com/carreonjaye/carreonjaye/master/images/icons8-buymeacoffee.png" height="40em" align="center" alt="Support Jaye with a Cup of Coffee" title="Support Jaye with a Cup of Coffee"/>](www.buymeacoffee.com/carreonjaye)
+[<img src="https://raw.githubusercontent.com/carreonjaye/carreonjaye/master/images/icons8-patreon.svg" height="40em" align="center" alt="Support Jaye on Patreon" title="Support Jaye on Patreon"/>](https://www.patreon.com/carreonjaye)
+[<img src="https://raw.githubusercontent.com/carreonjaye/carreonjaye/master/images/icons8-buymeacoffee.png" height="40em" align="center" alt="Support Jaye with a Cup of Coffee" title="Support Jaye with a Cup of Coffee"/>](https://www.buymeacoffee.com/carreonjaye)
